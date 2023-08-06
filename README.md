@@ -1,2 +1,3 @@
-![Screenshot (62)](https://github.com/Jitendra2127/Amazon_clone/assets/117801339/a4e9c83d-2a78-44e7-8f89-1fc3e01beedd)
+![aa](https://github.com/Jitendra2127/Amazon_clone/assets/117801339/12d61dbd-9ccb-43c4-b717-00abe4ba8cba)
+
 # Amazon_clone
